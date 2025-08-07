@@ -5,10 +5,6 @@ This repository demonstrates advanced Git usage as part of the ALX Professional 
 ## 📁 Project Structure
 
 ```
-
-┣ 📂hook-test-folder
-┃ ┣ 📜README.md — Description of the test folder used to validate the pre-commit hook
-┃ ┗ 📜sample.txt — A test file
 ┣ 📂login-page
 ┃ ┗ 📜README.md — Documentation for the login page component
 ┣ 📂signup-page
